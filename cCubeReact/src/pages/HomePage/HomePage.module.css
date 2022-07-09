@@ -1,0 +1,16 @@
+main{
+    height: calc(100vh - 70px);
+    background: url("../../img/Navbar/tree_swing.svg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    max-width: 1366px;
+    margin: 0 auto;
+}
+.dabba_container{
+    height: calc(100vh - 70px);
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}

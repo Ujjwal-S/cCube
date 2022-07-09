@@ -1,0 +1,25 @@
+.dabba{
+    width: 500px;
+    height: 320px;
+    background-color: #1d1d1d;
+    border-radius: 20px;
+}
+.dabba_heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+}
+.dabba_heading span{
+    font-size: 1.5625rem;
+    font-weight: 700;
+    position: relative;
+    top: 2px;
+}
+.bottom_text{
+    color: #c4c5c5;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+}
